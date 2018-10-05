@@ -1,7 +1,16 @@
+.gif-rating {
+  margin: 0px;
+
+}
+
 .giffer {
   /* border: 1px solid red; */
   border-radius: 25px;
-  margin: 5px;
+  margin: 0px;
+  opacity: 1;
+  max-width: 300px;
+  height: 200px;
+  margin-bottom:45px;
 }
 
 .title {
@@ -37,7 +46,7 @@
   background-color: #08B2E3;
   padding-top: 15px;
   padding-bottom: 15px;
-  box-shadow: 0px 8px 14px lightgray;
+  box-shadow: 0px 8px 14px darkgray;
 }
 
 .buttonDisp{
@@ -57,23 +66,16 @@
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-
-
+  border-radius: 5px;
 
 }
 
 .gif-button:hover{
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 0px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   background-color: white; 
   color: #176e41;
 
 }
-
-
-
-
-
-
 
 
 /* 
